@@ -109,7 +109,6 @@ tenacity==8.3.0
 tensorboard==2.16.0
 tensorboard-data-server==0.7.2
 tensorflow==2.16.2
-tensorflow-intel==2.16.2
 termcolor==2.4.0
 tf-nightly==2.18.0.dev20240703
 tf_keras-nightly==2.18.0.dev2024070409
